@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OddOneOUt Data</string>
+    <string name="btntext">SUBMIT</string>
+    <string name="destination_folder">/storage/emulated/0/shadow/</string>
+</resources>
